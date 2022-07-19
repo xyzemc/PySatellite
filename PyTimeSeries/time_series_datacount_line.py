@@ -1,3 +1,8 @@
+####################################################################
+###This code will plot the time series in lines. It needs to read in
+the input as csv format, which is generated from pygsi/LAMDA. There
+are sample_data directory stored test data.
+####################################################################
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
