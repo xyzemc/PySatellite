@@ -1,3 +1,7 @@
+####################################################################
+###This code will plot the time series at bar. It needs to read in 
+the input as csv format, which is generated from pygsi/LAMDA.
+####################################################################
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
